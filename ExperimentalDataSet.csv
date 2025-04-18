@@ -1,0 +1,11 @@
+ID,img #,Img Name,First Label,Final Label,ground_truth,Time Difference,Present 1,Confidence 1,Present 2,Confidence 2,Present 3,Confidence 3,Present 4,Confidence 4,AI suggestion,session type,percentage
+test,1,9220603_1.png,Arthritis,Arthritis,Non-Arthritis,15825,Not Present,4,Not Present,4,Not Present,4,Not Present,4,Non-Arthritis,First,0.00%,1
+test,2,9220603_2.png,Arthritis,Arthritis,Non-Arthritis,12058,Not Present,4,Not Present,4,Not Present,4,Not Present,4,Non-Arthritis,First,0.00%,1
+test,3,9015798L.png,Arthritis,Arthritis,Non-Arthritis,10050,Not Present,4,Not Present,4,Not Present,4,Not Present,4,Non-Arthritis,First,0.00%,1
+test,4,9018489L.png,Arthritis,Arthritis,Non-Arthritis,11247,Not Present,4,Not Present,4,Not Present,4,Not Present,4,Non-Arthritis,First,0.00%,1
+test,12,9189553L.png,Arthritis,Arthritis,Non-Arthritis,34116,Not Present,4,Not Present,4,Not Present,4,Not Present,4,Arthritis,First,0.00%,1
+test,16,9354699L.png,Arthritis,Arthritis,Arthritis,36221,Not Present,4,Not Present,4,Not Present,4,Not Present,4,Arthritis,First,0.00%,1
+test,17,9354699R.png,Arthritis,Arthritis,Arthritis,9663,Not Present,4,Not Present,4,Not Present,4,Not Present,4,Arthritis,First,0.00%,1
+test,18,9357137_2.png,Arthritis,Arthritis,Arthritis,10471,Not Present,4,Not Present,4,Not Present,4,Not Present,4,Arthritis,First,0.00%,1
+test,26,9646958L.png,Arthritis,Arthritis,Arthritis,10804,Not Present,4,Not Present,4,Not Present,4,Not Present,4,Non-Arthritis,First,0.00%,1
+test,27,9042396L.png,Arthritis,Arthritis,Arthritis,10077,Not Present,4,Not Present,4,Not Present,4,Not Present,4,Non-Arthritis,First,0.00%,1
